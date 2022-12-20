@@ -28,7 +28,12 @@ Let's take a look at the starter code.
 
 Inside `resource` folder, you can find `prostar.json`, a JSON file with the details of the prostar. Import this file and **create an array of the 5 first star celebrities** to use as your initial state.
 
-Display that array of 5 prostar in a `<table>` and display the `picture`, `name`, and `popularity` of each contact.
+Display that array of 5 prostar in a `<table>` and display the `picture`, `name`, `popularity` and `action` of each star.
+Under `action` column -> each row of the table should have a `delete button`.
+Above the table, there should be three buttons: 
+1. Random Addition
+2. Sort by Name
+3. Sort by Popularity
 
 To import `prostar.json` in `App.js`, you can simply use:
 
