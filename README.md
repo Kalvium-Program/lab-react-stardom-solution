@@ -23,7 +23,7 @@ In the end of this document, you will find guidelines on how to submit the exerc
 ## Instructions
 This is the final output will look like something like this:
 
-https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/final-prostar.gif
+![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/final-prostar.gif)
 
 ### PROGRESSION 1 | Display 5 Star Celebrities
 
