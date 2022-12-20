@@ -31,7 +31,7 @@ Inside `resource` folder, you can find `prostar.json`, a JSON file with the deta
 Display that array of 5 prostar in a `<table>` and display the `picture`, `name`, `popularity` and `action` of each star.
 Under `action` column -> each row of the table should have a `delete button`.
 Above the table, there should be three buttons: 
-1. Random Addition
+1. Random Star
 2. Sort by Name
 3. Sort by Popularity
 
@@ -55,6 +55,10 @@ First randomly select a prostars from the larger `prostars` array. Then add that
 At the end of this iteration, your website will probably look like this:
 
 ![Screenshot](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/randomstar-stardom.png)
+
+**NOTE:** You should not display a star, if the star is already displayed on the screen. If that is the case -> an `alert` pop up should come up -> like shown below:
+
+![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/alert-stardom.png)
 
 
 ### PROGRESSION 3 | Sort By Name
@@ -86,7 +90,6 @@ When they click, you should get the index of the array of that actor and use it 
 At the end of this iteration, your web page may look like this after playing a little bit with the "*Delete*" buttons.
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/delete-stardom.png)
 
-![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/alert-stardom.png)
 ## Summary
 
 If you managed to do it, good job! :trophy:
